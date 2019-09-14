@@ -1,0 +1,25 @@
+Brain name,Time to update policy,Time since start of training,Time for last experience collection,Number of experiences used for training,Mean return
+CartBrain,1.163,12.800,8.610,4114,5.233
+CartBrain,0.608,21.361,6.772,4201,5.565
+CartBrain,0.599,30.073,6.895,4149,5.107
+CartBrain,0.583,38.527,6.668,4134,4.300
+CartBrain,0.637,47.144,6.769,4193,4.578
+CartBrain,0.628,55.636,6.666,4097,5.503
+CartBrain,0.616,64.115,6.698,4111,8.710
+CartBrain,0.606,72.671,6.758,4111,11.261
+CartBrain,0.629,80.873,6.455,4101,13.450
+CartBrain,0.638,89.656,6.942,4107,10.492
+CartBrain,0.637,98.022,6.593,4146,12.883
+CartBrain,0.581,106.619,6.860,4137,11.579
+CartBrain,0.602,115.070,6.690,4101,13.350
+CartBrain,0.602,123.768,6.858,4129,16.116
+CartBrain,0.626,132.259,6.644,4098,20.489
+CartBrain,0.627,140.533,6.499,4152,35.720
+CartBrain,0.596,148.999,6.709,4104,27.681
+CartBrain,0.588,157.247,6.508,4102,30.631
+CartBrain,0.614,165.711,6.705,4115,33.545
+CartBrain,0.627,174.040,6.645,4097,51.400
+CartBrain,0.618,182.442,6.510,4135,65.400
+CartBrain,0.645,190.844,6.563,4103,70.050
+CartBrain,0.644,199.437,6.826,4132,73.140
+CartBrain,0.634,207.808,6.624,4137,80.840
